@@ -1,0 +1,20 @@
+<HTML>
+<HEAD>
+<TITLE>Sports bikes and cars</TITLE>
+<BODY background="s.gif">
+<H1 STYLE="FONT-SIZE:40;COLOR:white;FONT-FAMILY:Goudy Stout" ALIGN="CENTER"><B><U> Sports bikes and cars </U></B></H1>
+
+<ul style="list-style-type:disc;FONT-SIZE:35;COLOR:red;FONT-FAMILY:Algerian"">
+ 
+<li><a href="Cars.html" color="white">Sports Cars</a></li>
+<P STYLE="FONT-SIZE:32;COLOR:YELLOW">
+A sports car is designed to emphasise handling, performance or thrill of driving. Sports car originated in Europe in the early 1900s and are currently produced by many manufacturers around the world.<BR/>
+Traditionally the most common layout for sports cars was a roadster(a two seat car without a fixed roof), however ther are also several examples of early sports cars with four seats.</P> 
+<li><a href="Bikes.html" color="white">Sports Bikes</a></li>
+<p STYLE="FONT-SIZE:32;COLOR:YELLOW">
+A sportbike, or sports bike, is a motorcycle optimized for speed, acceleration, braking, and cornering on paved roads, typically at the expense of comfort and fuel economy by comparison with other motorcycles. Soichiro Honda wrote in the owner's manual of the 1959 Honda CB92 Benly Super Sport that, "Primarily, essentials of the motorcycle consists in the speed and the thrill,
+" while Cycle World's Kevin Cameron says that, "A sportbike is a motorcycle whose enjoyment consists mainly from its ability to perform on all types of paved highway – its cornering ability, its handling, its thrilling acceleration and braking power, even (dare I say it?) its speed."
+
+</p></ul>
+</head>
+</html>
